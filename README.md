@@ -1,1 +1,1 @@
-# Solar_System_Lamp-OpelGL-
+# Solar-System-Lamp
